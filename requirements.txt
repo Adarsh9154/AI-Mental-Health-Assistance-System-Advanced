@@ -1,0 +1,10 @@
+streamlit
+transformers
+torch
+pandas
+plotly
+sqlalchemy
+torchvision
+groq
+python-dotenv
+ffmpeg
