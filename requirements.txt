@@ -1,10 +1,14 @@
 streamlit
+streamlit-chat
+streamlit-mic-recorder
 transformers
 torch
+torchvision
 pandas
 plotly
 sqlalchemy
-torchvision
 groq
 python-dotenv
-ffmpeg
+openai-whisper
+ffmpeg-python
+sentencepiece
